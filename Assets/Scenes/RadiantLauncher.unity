@@ -694,11 +694,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c08309c0de49b0f4fb2892d6e0560926, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  applicationID: 1101995701480722434
+  applicationID: 1102265637654499328
   details: Selecting a miHoYo game.
   state: 'Made by: @TyDev_ on twitter'
   largeImage: icon
-  largeText: Radiant Launcher
+  largeText: Radiant Anime Launcher
 --- !u!4 &829224237
 Transform:
   m_ObjectHideFlags: 0
@@ -782,7 +782,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Radiant Launcher v1.0
+  m_Text: Radiant Anime Launcher v1.0.1
 --- !u!222 &945415509
 CanvasRenderer:
   m_ObjectHideFlags: 0

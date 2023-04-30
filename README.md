@@ -1,4 +1,4 @@
-# Radiant Launcher
+# Radiant Anime Launcher
 
 - A custom launcher for miHoYo games
 

@@ -706,5 +706,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Genshin.unity
   - Assets/Scenes/Honkai.unity
   - Assets/Scenes/StarRail.unity
-  playerPath: C:/Users/james/Downloads/Unity/Projects/RadiantLauncher/Export/Win/Radiant
-    Launcher.exe
+  playerPath: C:/Users/james/Downloads/Unity/Projects/RadiantLauncher/Export/Win
+    1.0.1/Radiant Anime Launcher.exe
