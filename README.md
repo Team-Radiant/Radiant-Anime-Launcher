@@ -9,3 +9,11 @@
 - Technically a combination of Honkai, Genshin, and Star Rail's clients.
 
 - Hope you enjoy loser!!
+
+# Markdown files
+
+- Check Credits.md to see who worked on this.
+
+- Check Changelog.md to see what's new.
+
+- Check ComingSoon.md to see what's coming soon.

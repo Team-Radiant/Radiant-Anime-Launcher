@@ -39,6 +39,11 @@ public class RadiantLauncher : MonoBehaviour
 
     public void BackButton()
     {
-        SceneManager.LoadScene("RadiantLauncher");
+        SceneManager.LoadScene("RadiantLauncherRewrite");
+    }
+
+    public void CreditsButton()
+    {
+        SceneManager.LoadScene("Creds");
     }
 }
