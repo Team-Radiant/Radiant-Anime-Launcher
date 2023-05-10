@@ -6,7 +6,7 @@
 
 - If the game doesn't launch it's most likely because it's not in the default installation location or you don't have it installed.
 
-- Ngl we put a lot of time and effort sl we hope you enjoy.
+- Ngl we put a lot of time and effort so we hope you enjoy.
 
 # Markdown files
 
