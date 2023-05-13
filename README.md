@@ -8,6 +8,10 @@
 
 - Ngl we put a lot of time and effort so we hope you enjoy.
 
+# Bugs
+
+- Every time you switch scenes it makes you login again.
+
 # Markdown files
 
 - Check Credits.md to see who worked on this.

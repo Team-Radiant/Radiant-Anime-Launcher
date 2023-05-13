@@ -15,3 +15,15 @@
 * New look for the launcher menu! (By Devvy)
 
 * New work in progress login system! (By Devvy)
+
+# 1.0.2b Release
+
+* Fixed a bug that didn't let you leave the credits menu.
+
+# 1.0.3 Release
+
+* Steam Support!
+
+* Somewhat cleaner login system!
+
+* Finally added escape to quit
