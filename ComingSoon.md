@@ -1,5 +1,5 @@
-# Release 1.0.3
+# Release 1.0.4
 
-* Escape Button to quit (Should've been one of the main things added.)
+* Login bug fix
 
-* Honkai Steam ver Launch Support
+* Custom profile picture support
