@@ -10,7 +10,7 @@
 
 # Bugs
 
-- Every time you switch scenes it makes you login again.
+- Scene switching is broken
 
 # Markdown files
 
