@@ -3,3 +3,5 @@
 * Login bug fix
 
 * Custom profile picture support
+
+* Settings Menu
