@@ -2,6 +2,6 @@
 
 * Login bug fix
 
-* Custom profile picture support
+* Custom profile picture support (maybe?)
 
-* Settings Menu
+* Settings Menu (also maybe?)
